@@ -1,0 +1,101 @@
+#promo{
+  text-align:center;
+  padding:40px;
+  background:url(../../assets/img/mooc.png) no-repeat;
+  height:600px;
+  background-size:cover;
+}
+
+.jumbotron{
+  border-radius:20px;
+  padding:40px;
+  background-color:rgba(255,255,255,0);
+}
+
+h1.logo{
+  font-family:Cookie;
+  font-size:100px;
+}
+
+span{
+  color:#bc40df;
+}
+
+.une > .col-md-4{
+  padding:5px;
+  text-align:center;
+  background-color:rgba(223,231,234,0.6);
+  width:31%;
+  border-color:white;
+  margin:8px;
+  border-radius:10px;
+  height: 400px;
+  position: relative;
+}
+.une > .col-md-4>img{
+	height: 200px;
+	}
+	
+	.une > .col-md-4>.btn
+	{
+		position: absolute;
+		bottom: 0;
+	}
+
+div.row.une{
+  text-align:center;
+}
+
+li.list-group-item, .cours{
+  background-color:rgb(223,231,234);
+}
+
+div#conrs{
+  text-align:center;
+}
+
+p#ou{
+  margin:20px;
+}
+
+div.row.part{
+  margin:10px;
+}
+
+#conrs > img{
+  margin:8px;
+}
+
+.cours{
+  margin:6px;
+  padding:5px;
+  border-radius:10px;
+}
+
+#plus{
+  text-align:center;
+  margin:40px;
+}
+
+#corps, .tete{
+  margin-top:100px;
+  margin-bottom:0;
+}
+
+div.col-md-3.ruban{
+  height:1100px;
+  background-color:rgba(0,0,0,0.8);
+}
+
+button#rech.btn.btn-default{
+  margin-top:9px;
+}
+
+div.panel-body{
+  background-color:rgba(0,0,0,0.8);
+}
+
+.ruban > h1.text-center.text-info.logo{
+  font-size:3em;
+}
+
